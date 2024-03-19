@@ -1,0 +1,1 @@
+Detection of Covid and Pneumonia in Chest X-Rays with Pytorch and Transfer Learning using Resnet18.
